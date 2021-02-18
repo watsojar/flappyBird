@@ -14,7 +14,7 @@ pipes:
   2 pipes spawned every 30 game loops
     the bottom pipe would generate at a yandom Y value 
     the top pipe would spawn a certain distance above the bottom pipe
-      allowed for a true random distribution of ther types of pipes
+      allowed for a true random distribution of the types of pipes
   pipes would travel at a constant speed
     each game loop their X value decreased by a constant amount
   after pipes reached far left and exited scene they were deleted from the "pipes" list and cleared from the screen
